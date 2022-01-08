@@ -17,13 +17,13 @@
   align-items: center;
 }
 
-.header-name {
+.header-name a {
   font-size: 16px;
   color: #fafafa;
   text-decoration: none;
 }
 
-.header-room {
+.header-room a {
   font-size: 10px;
   border: 1px solid lightblue;
   padding: 14px;
